@@ -330,9 +330,12 @@ h3{
     padding: 30px 0;
 }
 .footer h4{
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     margin-top: 20px;
     font-weight: 600;
+}
+.footer p{
+    margin-bottom: 10px;
 }
 .icons .fa{
     color: #ee8a3a;
